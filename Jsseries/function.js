@@ -1,4 +1,4 @@
-console.log("function sikho dosto");
+//console.log("function sikho dosto");
 
 
 // *function define kro pahle:-

@@ -39,12 +39,12 @@
 
 // eg ;2
 
-const marvel_heros = ["ironman" , "thor" , "spiderman"];
-console.log(marvel_heros)
-const dc_heros = ["batamn", "flash", "superman" ]; 
-console.log(dc_heros)
+// const marvel_heros = ["ironman" , "thor" , "spiderman"];
+// console.log(marvel_heros)
+// const dc_heros = ["batamn", "flash", "superman" ]; 
+// console.log(dc_heros)
 
-// we want to join hai arrays so we dont use push or concat method we use :-
+// // we want to join hai arrays so we dont use push or concat method we use :-
 
-const all_heros = [...marvel_heros, ...dc_heros];
-console.log( " all heros " , all_heros);
+// const all_heros = [...marvel_heros, ...dc_heros];
+// console.log( " all heros " , all_heros);

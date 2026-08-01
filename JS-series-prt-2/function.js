@@ -175,19 +175,19 @@
 // *** imediate invoked  function   expression (IIFE) ()():-
 // we use IIFE beacouse to remove the global scope polution 
 
-(function chai(){ // this is named IIFE bcz its fun have name 
-    console.log("db connected");
+// (function chai(){ // this is named IIFE bcz its fun have name 
+//     console.log("db connected");
     
-})
-();
+// })
+// ();
 
-// IIFE using arrow fun :-
+// // IIFE using arrow fun :-
 
-((name) =>{ // simple IIFE
-   console.log(`db is connected to ${name}`);
+// ((name) =>{ // simple IIFE
+//    console.log(`db is connected to ${name}`);
    
-})
-('khushi')
+// })
+// ('khushi')
 
 
 
